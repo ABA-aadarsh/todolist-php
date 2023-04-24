@@ -1,5 +1,4 @@
 # todolist-php
-This is a php project
 
 Make a folder named ***todolist*** inside **xampp/htdocs/** and save all these files in the folder ***todolist***.
 
